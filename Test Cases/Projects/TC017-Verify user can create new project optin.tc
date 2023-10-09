@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC017-Verify user can create new project optin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa8df858-5a40-4b1c-a692-d35d4e2a1de8</testCaseGuid>
+</TestCaseEntity>

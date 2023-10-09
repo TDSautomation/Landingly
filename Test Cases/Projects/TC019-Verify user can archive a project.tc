@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019-Verify user can archive a project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>455140ef-3a2d-48f9-bfc1-98e363e51181</testCaseGuid>
+</TestCaseEntity>

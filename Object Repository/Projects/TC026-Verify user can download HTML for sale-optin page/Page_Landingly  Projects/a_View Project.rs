@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Project</name>
+   <tag></tag>
+   <elementGuidId>ffed31c3-f03a-4581-8f2c-7b3fd364d32f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[3]/div/div/content/div/div/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.pull-left.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f5cc165-82c6-4445-af68-5c3ae65b694f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/projectdetail/40482</value>
+      <webElementGuid>769fcf94-b343-4722-bbb4-354243f05011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn pull-left btn-outline-primary</value>
+      <webElementGuid>9aea49ba-bf09-4deb-aae4-52c8354d2667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>9ea9591a-c35c-471f-84a1-1ef3f70c8b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>View Project</value>
+      <webElementGuid>1203b469-49db-48d4-ac7f-d0300bc71499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>__bv_tooltip_151__</value>
+      <webElementGuid>850e4933-9ed5-4630-8683-0c7c8e68b90c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View Project </value>
+      <webElementGuid>874c427a-49e7-4433-8a37-df298c5b4310</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vertical-layout h-100 vertical-menu-modern menu-expanded navbar-floating footer-static&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content-body&quot;]/div[@class=&quot;b-overlay-wrap position-relative loaderPreview&quot;]/content[@class=&quot;blog-wrapper&quot;]/div[@class=&quot;row blog-list-wrapper userprojects&quot;]/div[@class=&quot;custom-col-4 col-md-4 col-lg-4 col-xl-3&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;border-top py-1 col-12&quot;]/a[@class=&quot;btn pull-left btn-outline-primary&quot;]</value>
+      <webElementGuid>f02e9168-60f0-4573-a734-2b9c49fb13ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[3]/div/div/content/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>194de9eb-af05-46e9-ae52-1da0b819d996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Project')]</value>
+      <webElementGuid>6355c05f-c97c-42fa-ba12-4eeac7b2cdd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new optin project'])[1]/following::a[1]</value>
+      <webElementGuid>b0864bd8-f215-40f0-a732-3530cc0fcf49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Project'])[1]/following::a[1]</value>
+      <webElementGuid>7194c5db-1408-4ad3-ac53-060bf8b4e81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new optin project'])[2]/preceding::a[1]</value>
+      <webElementGuid>b2b88801-374f-4cb9-8eb3-c62e8dcbe188</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Project'])[2]/preceding::a[1]</value>
+      <webElementGuid>f009d3e0-ae31-4e11-8849-a394a8181605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Project']/parent::*</value>
+      <webElementGuid>24388a96-f674-4f4f-88a4-f96c0cb83ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/projectdetail/40482')]</value>
+      <webElementGuid>e7306868-8d2c-4d75-a0f4-139590e5195a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>dc5a9f58-cdb4-4466-b3a8-acbb68dda109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/projectdetail/40482' and (text() = ' View Project ' or . = ' View Project ')]</value>
+      <webElementGuid>5c60f270-a972-4efb-84c3-fdef2b9d2b6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

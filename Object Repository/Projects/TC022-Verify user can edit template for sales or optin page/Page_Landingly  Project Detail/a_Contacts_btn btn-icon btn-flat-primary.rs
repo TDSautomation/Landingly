@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contacts_btn btn-icon btn-flat-primary</name>
+   <tag></tag>
+   <elementGuidId>2edafa57-cb33-4db5-a586-b38154bab5c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right > a.btn.btn-icon.btn-flat-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div[3]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59ba2830-a32c-4566-a4c7-42fd1912221b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/editproject/41020</value>
+      <webElementGuid>40574405-c17f-4bcc-aaf0-383f14b8b657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon btn-flat-primary</value>
+      <webElementGuid>cf3bf753-e726-4e7b-81ff-2bd4f4d965d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>cb06e2f8-7dfd-4985-8ff5-cbac57d859e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Edit Template</value>
+      <webElementGuid>4231a115-e180-47b1-8139-7654244a424e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>__bv_tooltip_225__</value>
+      <webElementGuid>b5fba867-d4b4-4bbc-a451-9bd32b665d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vertical-layout h-100 vertical-menu-modern menu-expanded navbar-floating footer-static&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content-body&quot;]/section[1]/div[@class=&quot;b-overlay-wrap position-relative loaderPreview&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer card-profile&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;text-right&quot;]/a[@class=&quot;btn btn-icon btn-flat-primary&quot;]</value>
+      <webElementGuid>b603b558-9967-4738-b860-c3931f64e3d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div[3]/div/div[3]/a</value>
+      <webElementGuid>8ddbe14f-3c11-4257-b89c-6c831601b570</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[2]/following::a[1]</value>
+      <webElementGuid>7ad02889-9e3f-49ca-896e-94afd408be74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Visitors'])[1]/following::a[2]</value>
+      <webElementGuid>a1dbdff9-75d0-4f14-9699-ef9052c24862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You / Download Page'])[1]/preceding::a[2]</value>
+      <webElementGuid>ae2a4e29-f95e-44ba-a50a-2e00e28b97ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Visitors'])[2]/preceding::a[2]</value>
+      <webElementGuid>941c0192-af0f-42e8-8ce4-ec0303cbc8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/editproject/41020')]</value>
+      <webElementGuid>f7549f08-c235-4f93-90e7-3e9a9ac9b241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>54b34dfd-32ee-4def-9a9f-91dff2f86424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/editproject/41020']</value>
+      <webElementGuid>2f10a83e-2d0c-45ee-8c1a-f2034b2439bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

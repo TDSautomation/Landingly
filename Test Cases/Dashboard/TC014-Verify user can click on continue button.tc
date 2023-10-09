@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC014-Verify user can click on continue button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6e3008d-5141-4e9d-96ed-3aa276cba224</testCaseGuid>
+</TestCaseEntity>

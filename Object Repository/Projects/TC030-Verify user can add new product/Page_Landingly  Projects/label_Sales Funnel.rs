@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Sales Funnel</name>
+   <tag></tag>
+   <elementGuidId>4f003827-28c7-47db-8bf9-43a033b5a2b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='BuildProject']/section/div[2]/div[2]/div/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6fdac54a-0e93-46b8-a143-5e0f4aca7f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-control-label</value>
+      <webElementGuid>17a58f0b-dc0b-43d1-b435-d22d878746b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>__BVID__269</value>
+      <webElementGuid>4dc69c4a-e826-442f-9705-8666543d5fd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sales Funnel </value>
+      <webElementGuid>8c2be072-9772-44cd-a3a1-737890ad89e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;BuildProject&quot;)/section[1]/div[@class=&quot;row match-height&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card shadow-none&quot;]/div[@class=&quot;card-header text-center&quot;]/div[@class=&quot;custom-control custom-radio&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
+      <webElementGuid>db84c96e-c926-4a61-aff8-624c3b47e6b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='BuildProject']/section/div[2]/div[2]/div/div/div/label</value>
+      <webElementGuid>8320a538-8022-4ef8-a1f1-a38b90e88682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build a new email list and start building an engaging email list.'])[1]/following::label[1]</value>
+      <webElementGuid>733a1924-7c59-4836-93fd-9557775c5cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collect Emails'])[1]/following::label[1]</value>
+      <webElementGuid>553f5542-1e4b-4829-b813-f829f9c6690c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sell your products after collecting leads with a squeeze page.'])[1]/preceding::label[1]</value>
+      <webElementGuid>c9869e5e-4b84-4d57-a219-fde6b5cdb6a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>2d0ed1b8-f779-48d8-944d-1bd0eb1f4b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sales Funnel']/parent::*</value>
+      <webElementGuid>77f446e5-9fa4-425d-a79a-a06e3976c5e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label</value>
+      <webElementGuid>51008b93-4f8b-4849-8729-d8b2c4c6c279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Sales Funnel ' or . = ' Sales Funnel ')]</value>
+      <webElementGuid>d20ade9d-0624-4fd7-ae36-79262ce291df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

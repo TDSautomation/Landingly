@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012-Verify user can change profile name and save</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0914aa8-a5e7-44c9-b2bd-c24c62b8aba4</testCaseGuid>
+</TestCaseEntity>

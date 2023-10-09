@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC020-Verify user can restore a archived project</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e96ac9d-5cd0-4f69-8e64-b9d94129c1ed</testCaseGuid>
+</TestCaseEntity>

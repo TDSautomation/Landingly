@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-contacts-Verify user can add new contact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e34f48cb-d562-4b48-ac5f-b504d643517d</testCaseGuid>
+</TestCaseEntity>

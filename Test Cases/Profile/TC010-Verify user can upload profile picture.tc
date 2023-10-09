@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC010-Verify user can upload profile picture</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f7b9855-9b8b-47be-8310-f4e858250d79</testCaseGuid>
+</TestCaseEntity>

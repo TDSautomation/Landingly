@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_imagesvgxml Please sign-in to your acco_e01e74</name>
+   <tag></tag>
+   <elementGuidId>bf2e09e7-7782-45d7-8f35-48142c06ecff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.auth-wrapper.auth-v1.px-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>96ab8721-4d3b-4cc7-8690-7a5b6b353599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth-wrapper auth-v1 px-2</value>
+      <webElementGuid>6caf31be-a835-4ee0-9543-5a2faee965e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>image/svg+xml Please sign-in to your account EmailPasswordForgot Password? Sign in </value>
+      <webElementGuid>e647b407-f891-46b5-af32-97489723fda9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;auth-wrapper auth-v1 px-2&quot;]</value>
+      <webElementGuid>a419fc4a-4322-4ecd-acb4-f96265a57ddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div</value>
+      <webElementGuid>b53e6932-3633-4464-990c-97924aceb2b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>5f674a35-56ad-4ffb-877b-7620165cba6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'image/svg+xml Please sign-in to your account EmailPasswordForgot Password? Sign in ' or . = 'image/svg+xml Please sign-in to your account EmailPasswordForgot Password? Sign in ')]</value>
+      <webElementGuid>bf49d599-75eb-4e4f-917b-af357e7488b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

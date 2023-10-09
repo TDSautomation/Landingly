@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC028-Verify user can reset template for sales-optin page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>689a65cf-2c6f-4095-b097-ff70183d5115</testCaseGuid>
+</TestCaseEntity>

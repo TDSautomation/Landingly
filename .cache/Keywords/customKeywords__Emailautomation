@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "16D28EABFF86538921FC620FA306B259",
+  "keywordClasses": [
+    {
+      "name": "customKeywords.Emailautomation",
+      "keywordMethods": [
+        {
+          "name": "populateEmail",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "populateSalesProjectName",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

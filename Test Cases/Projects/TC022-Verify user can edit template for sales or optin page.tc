@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC022-Verify user can edit template for sales or optin page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1b913e0-1ea8-4072-8f61-300232f5123a</testCaseGuid>
+</TestCaseEntity>

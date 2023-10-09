@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderEntity>
+   <description></description>
+   <name>TC012-Verify user can change profile name and save</name>
+   <tag></tag>
+   <folderType>WEBELEMENT</folderType>
+</FolderEntity>

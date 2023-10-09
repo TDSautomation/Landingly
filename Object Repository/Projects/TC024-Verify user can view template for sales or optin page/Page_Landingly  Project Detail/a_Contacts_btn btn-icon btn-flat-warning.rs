@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contacts_btn btn-icon btn-flat-warning</name>
+   <tag></tag>
+   <elementGuidId>0845fb87-4f8b-4efb-bf63-d025999b5651</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right > a.btn.btn-icon.btn-flat-warning</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div[3]/div/div[3]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8af7417e-5dcf-48fb-869b-50195d603420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://Quality.landingly.com/Optin-Squeeze-Page-ffe82e18-d45f91de</value>
+      <webElementGuid>e4a2cd6a-b2e1-443a-9640-d335545bf568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener</value>
+      <webElementGuid>63f65376-8da7-4156-a6ab-b51a9d79f446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>78c33ee8-8480-4ee6-a2a7-c6e7de911720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-icon btn-flat-warning</value>
+      <webElementGuid>8aaad2e3-93bc-46b9-8c61-9105b84d493b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>View</value>
+      <webElementGuid>b592b61c-ce1c-4c77-a083-6615c4e82668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>__bv_tooltip_227__</value>
+      <webElementGuid>2a3dbefb-35cc-4dee-8250-466197a0c0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vertical-layout h-100 vertical-menu-modern menu-expanded navbar-floating footer-static&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content-body&quot;]/section[1]/div[@class=&quot;b-overlay-wrap position-relative loaderPreview&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-footer card-profile&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/div[@class=&quot;text-right&quot;]/a[@class=&quot;btn btn-icon btn-flat-warning&quot;]</value>
+      <webElementGuid>8b75f7d6-089f-4726-a941-b961b1d294c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div[3]/div/div[3]/a[2]</value>
+      <webElementGuid>b97b407f-f5c5-493f-85fb-cde26cf8152c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contacts'])[2]/following::a[2]</value>
+      <webElementGuid>78f8fc4c-a487-4f6a-bf1b-1493fe410cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Visitors'])[1]/following::a[3]</value>
+      <webElementGuid>a3c5c28b-4a90-4d27-bf96-8c7e38636b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank You / Download Page'])[1]/preceding::a[1]</value>
+      <webElementGuid>ee7bf33c-e8a0-4c1c-881f-f62f6ee9a6d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Visitors'])[2]/preceding::a[1]</value>
+      <webElementGuid>d1f53247-a299-465f-b7ef-7b9b81155bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://Quality.landingly.com/Optin-Squeeze-Page-ffe82e18-d45f91de')]</value>
+      <webElementGuid>3fbe9629-dc4d-44d3-82ad-dbb1dab5c81b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a[2]</value>
+      <webElementGuid>af1a1c80-fe8a-4de1-a529-cbbd2a4e931a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://Quality.landingly.com/Optin-Squeeze-Page-ffe82e18-d45f91de']</value>
+      <webElementGuid>1fe83c83-7e7d-4f15-9d8f-45783d0c1fe1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

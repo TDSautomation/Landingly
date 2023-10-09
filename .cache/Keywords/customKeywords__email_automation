@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "364A1FAB33BD15AEEE44F65DE151BFCF",
+  "keywordClasses": [
+    {
+      "name": "customKeywords.email_automation",
+      "keywordMethods": [
+        {
+          "name": "populateEmail",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

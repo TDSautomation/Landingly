@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Use This</name>
+   <tag></tag>
+   <elementGuidId>74e7140a-1258-4f62-bc0c-01ae9211a935</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div/div/div/div[2]/div/h3/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2869f461-b522-4a9b-82e2-9c44834005a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>1de59c19-cf31-486a-8c99-75a3a417be9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Use This</value>
+      <webElementGuid>e21a0f3d-dd62-4ea4-804b-26f5e613fb75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;vertical-layout h-100 vertical-menu-modern menu-expanded navbar-floating footer-static&quot;]/div[@class=&quot;app-content content&quot;]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content-body&quot;]/section[1]/div[@class=&quot;b-overlay-wrap position-relative loaderPreview&quot;]/div[3]/div[@class=&quot;row match-height&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;custom-col-6 col-lg-4&quot;]/div[@class=&quot;card shadow-none&quot;]/div[@class=&quot;row text-center mx-0&quot;]/div[@class=&quot;border-top d-flex align-items-between flex-column py-1 col-12&quot;]/h3[@class=&quot;font-weight-bolder mb-0&quot;]/a[@class=&quot;btn mr-1 btn-outline-primary templates&quot;]/span[@class=&quot;name&quot;]</value>
+      <webElementGuid>e1769fc4-359c-402a-8588-74bf1b95c576</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[3]/div/section/div/div[3]/div/div/div/div/div/div[2]/div/h3/a/span</value>
+      <webElementGuid>2f5c4f8e-d9c2-4888-908c-41fba2627021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new optin project'])[1]/following::span[1]</value>
+      <webElementGuid>b30c83f8-215d-4e22-90b6-a183c0004f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Projects'])[2]/following::span[2]</value>
+      <webElementGuid>a6e83d68-8946-41b6-8862-a4da70706d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb329465-f9ad-41f7-aaea-7dc626a7ad78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use This'])[2]/preceding::span[2]</value>
+      <webElementGuid>f2554eed-128b-49cd-83e1-6f43f73a5405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Use This']/parent::*</value>
+      <webElementGuid>d009fd2e-cf13-4003-b87f-8f943f1ba7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a/span</value>
+      <webElementGuid>69889d08-d03d-4975-ba50-16de09760e30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Use This' or . = 'Use This')]</value>
+      <webElementGuid>ce96f338-cdba-4a42-8ad3-66580454e9d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

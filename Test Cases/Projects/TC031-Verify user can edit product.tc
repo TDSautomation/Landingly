@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC031-Verify user can edit product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f43fd8d-1dae-400a-8a4d-e2ee3f2a5b1f</testCaseGuid>
+</TestCaseEntity>

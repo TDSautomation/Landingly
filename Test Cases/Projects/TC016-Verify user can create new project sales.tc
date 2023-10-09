@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016-Verify user can create new project sales</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a54cc4a2-e593-499c-adb9-9144fb36b8f5</testCaseGuid>
+</TestCaseEntity>
