@@ -6,12 +6,12 @@
    <elementGuidId>ee79a9d1-a6e3-4880-bfc0-df867c32056b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.feather.feather-archive > rect</value>
+         <key>XPATH</key>
+         <value>//*[name()='svg' and @class='feather feather-archive']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//img[@class='rounded']</value>
+         <key>CSS</key>
+         <value>svg.feather.feather-archive > rect</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>rect</value>
-      <webElementGuid>11fd3f87-c49e-49d3-b063-9486b2948202</webElementGuid>
+      <webElementGuid>452f3f56-c680-4ac6-8e1e-4aade86e678d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>x</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>10626ac9-0de4-45ab-acf0-b02eeb2adc45</webElementGuid>
+      <webElementGuid>d19d413a-f4fa-4b65-9686-f33c30a4127f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>y</name>
       <type>Main</type>
       <value>3</value>
-      <webElementGuid>e9625c3a-8757-4efa-bbc7-604241d9a57d</webElementGuid>
+      <webElementGuid>a8d35f1a-9392-44ad-8072-2d764d50ad60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>width</name>
       <type>Main</type>
       <value>22</value>
-      <webElementGuid>39ac8517-03d1-4d56-8c57-1b5cd7b16e80</webElementGuid>
+      <webElementGuid>f3f49ddf-5897-4357-a3ca-7658ae007187</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>height</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>405b89f0-9c0f-4f84-9ecb-89ead2c3f3bc</webElementGuid>
+      <webElementGuid>48393c15-776e-4fd9-aac4-2e0b8d880fdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__BVID__124&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;media&quot;]/div[@class=&quot;media-aside align-self-start&quot;]/a[@class=&quot;user-profile&quot;]/span[@class=&quot;remove-icon&quot;]/svg[@class=&quot;feather feather-archive&quot;]/rect[1]</value>
-      <webElementGuid>d23f7a28-8722-4076-aee1-f5a8008d659e</webElementGuid>
+      <webElementGuid>e16f100c-bc07-4bec-ae88-385765932a86</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

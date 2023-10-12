@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://app.landingly.com/')
 
 WebUI.setText(findTestObject('Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Login/input_Email_login-email'), 

@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://app.landingly.com/')
 
 WebUI.setText(findTestObject('Object Repository/Login/TC002-Valid Email and Invalid Password/Page_Landingly  Login/input_Email_login-email'), 

@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='navbarimage']/span/img</value>
+         <value>//span[@id]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>9cea1c88-9553-4405-becb-ddccbdf2d279</webElementGuid>
+      <webElementGuid>1cd7b856-929c-4b96-8c75-2fd4e2d87fef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://api.landingly.com/Images/ProfilePics/3def73ec-074c-4973-a741-1b7a0673b606/87f1d2a0-94c4-4e1f-b3d7-91e2910d0806.png</value>
-      <webElementGuid>7ed08e89-5c3e-4e55-9f99-94137964ec6b</webElementGuid>
+      <webElementGuid>2ebf51ff-5d22-4ac2-8a45-b974f0e4f916</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>avatar</value>
-      <webElementGuid>74591102-001e-4641-8a7d-aad33c670b6a</webElementGuid>
+      <webElementGuid>aa8bbbe0-fecc-4b67-8426-aa2ed7595fd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarimage&quot;)/span[@class=&quot;b-avatar-img&quot;]/img[1]</value>
-      <webElementGuid>5a79a34b-5af0-485f-a8c6-81aa81dae50e</webElementGuid>
+      <webElementGuid>46df9f85-7cc3-4765-9764-4ef3e5568576</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='navbarimage']/span/img</value>
-      <webElementGuid>bf39c9b9-4e3b-4591-a3ef-8ef144d231a0</webElementGuid>
+      <webElementGuid>77481761-ced6-45f2-b2b7-b0e26af4c1f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='avatar']</value>
-      <webElementGuid>68cf54b9-3575-4efe-ab08-d59ee938192b</webElementGuid>
+      <webElementGuid>17111e49-7d16-4bac-be71-3094aeb9dd60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/img</value>
-      <webElementGuid>0a4b678b-ed33-4489-b5a1-90ad9b866c9f</webElementGuid>
+      <webElementGuid>49c1351b-4953-4a71-a5ce-66a8bffb133a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = 'https://api.landingly.com/Images/ProfilePics/3def73ec-074c-4973-a741-1b7a0673b606/87f1d2a0-94c4-4e1f-b3d7-91e2910d0806.png' and @alt = 'avatar']</value>
-      <webElementGuid>87675554-7fc2-4641-9b81-a1964db6d144</webElementGuid>
+      <webElementGuid>0f528948-b5aa-463a-85ed-ce954ca6a958</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

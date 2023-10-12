@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://app.landingly.com/')
 
 WebUI.setText(findTestObject('Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Login/input_Email_login-email'), 

@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//body/div[6]/div/div/div/div/span/form/div/div/div[9]/fieldset/div/span/div/div[2]</value>
+         <value>//body/div[5]/div/div/div/div/span/form/div/div/div[9]/fieldset/div/span/div/div[2]/div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>107d1626-e11a-49fa-b910-8de719e5571d</webElementGuid>
+      <webElementGuid>ac6fa960-d8c4-4bd1-bc1f-c6e2200e65c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>CamSpam</value>
-      <webElementGuid>b53a6ea8-3591-4626-9b02-146e4a17b139</webElementGuid>
+      <webElementGuid>3bc65eab-1a67-45bd-9aa1-1e049376a246</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>CamSpam</value>
-      <webElementGuid>eebf42ad-1b92-48d9-882c-b77ae0505e1a</webElementGuid>
+      <webElementGuid>3293709f-3bcb-48ce-81c0-18ce93a13c5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2a6c45e2-d6b9-43d8-9cfb-e9b86400fd55</webElementGuid>
+      <webElementGuid>b1856c39-62e5-4a87-adae-0ccbeaa286f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Give CamSpam...</value>
-      <webElementGuid>ff41e771-81a0-45e3-96ff-c0e1e0fb657f</webElementGuid>
+      <webElementGuid>5a9862d6-4869-48b5-86bf-a205413f4ec8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>dc87f8c2-3e95-4817-a7d9-b2a1d5f4d269</webElementGuid>
+      <webElementGuid>c2580547-3175-451a-ae7d-ef97b1d2fd93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;CamSpam&quot;)</value>
-      <webElementGuid>a349495a-5352-46e7-b52b-24fc7567823d</webElementGuid>
+      <webElementGuid>a21f6cd0-10c8-42e5-a4da-ea5b849bc162</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='CamSpam']</value>
-      <webElementGuid>af3f74d8-702c-4da5-9baa-a11227f3da6d</webElementGuid>
+      <webElementGuid>dc20411b-ea6b-43f0-8935-930eab034a05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//fieldset[@id='__BVID__490']/div/input</value>
-      <webElementGuid>be02d89e-467c-4f54-bfc5-344044c1ed5d</webElementGuid>
+      <webElementGuid>378df2e8-f092-4ee8-9da0-f21af3e780df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset/div/input</value>
-      <webElementGuid>84d8b9ea-6751-4448-b7bf-b2cdf73770fb</webElementGuid>
+      <webElementGuid>a71d9242-dd1d-4c64-9ee2-580e57d3033f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'CamSpam' and @name = 'CamSpam' and @type = 'text' and @placeholder = 'Give CamSpam...']</value>
-      <webElementGuid>dc7f0611-8a7c-4aa8-9e09-ebcd790d1c6e</webElementGuid>
+      <webElementGuid>080075f6-9871-4d2d-b9aa-9e3092cb5ad6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

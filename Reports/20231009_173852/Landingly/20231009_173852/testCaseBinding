@@ -1,0 +1,34 @@
+{"testCaseName":"Test Cases/Contacts/TC001-contacts-Verify user can add new contact","testCaseId":"Test Cases/Contacts/TC001-contacts-Verify user can add new contact","iterationVariableName":""}
+{"testCaseName":"Test Cases/Dashboard/TC014-Verify user can click on continue button","testCaseId":"Test Cases/Dashboard/TC014-Verify user can click on continue button","iterationVariableName":""}
+{"testCaseName":"Test Cases/Dashboard/TC015-Verify user can change theme dark-light","testCaseId":"Test Cases/Dashboard/TC015-Verify user can change theme dark-light","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC001-Validlogin","testCaseId":"Test Cases/Login/TC001-Validlogin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC002-Valid Email and Invalid Password","testCaseId":"Test Cases/Login/TC002-Valid Email and Invalid Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC003-Invalid Email and valid Password","testCaseId":"Test Cases/Login/TC003-Invalid Email and valid Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC004-Empty Login Fields","testCaseId":"Test Cases/Login/TC004-Empty Login Fields","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC005-Invalid Email and invalid Password","testCaseId":"Test Cases/Login/TC005-Invalid Email and invalid Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC006-Empty Username and Valid Password","testCaseId":"Test Cases/Login/TC006-Empty Username and Valid Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC007-Valid Username and Empty Password","testCaseId":"Test Cases/Login/TC007-Valid Username and Empty Password","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC008-Verify user can logout","testCaseId":"Test Cases/Login/TC008-Verify user can logout","iterationVariableName":""}
+{"testCaseName":"Test Cases/Login/TC009-Verify forget password working fine","testCaseId":"Test Cases/Login/TC009-Verify forget password working fine","iterationVariableName":""}
+{"testCaseName":"Test Cases/Profile/TC010-Verify user can upload profile picture","testCaseId":"Test Cases/Profile/TC010-Verify user can upload profile picture","iterationVariableName":""}
+{"testCaseName":"Test Cases/Profile/TC011-Verify user can remove profile picture","testCaseId":"Test Cases/Profile/TC011-Verify user can remove profile picture","iterationVariableName":""}
+{"testCaseName":"Test Cases/Profile/TC012-Verify user can change profile name and save","testCaseId":"Test Cases/Profile/TC012-Verify user can change profile name and save","iterationVariableName":""}
+{"testCaseName":"Test Cases/Profile/TC013-Verify change password working fine","testCaseId":"Test Cases/Profile/TC013-Verify change password working fine","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC016-Verify user can create new project sales","testCaseId":"Test Cases/Projects/TC016-Verify user can create new project sales","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC017-Verify user can create new project optin","testCaseId":"Test Cases/Projects/TC017-Verify user can create new project optin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC018-Verify user can view project","testCaseId":"Test Cases/Projects/TC018-Verify user can view project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC019-Verify user can archive a project","testCaseId":"Test Cases/Projects/TC019-Verify user can archive a project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC020-Verify user can restore a archived project","testCaseId":"Test Cases/Projects/TC020-Verify user can restore a archived project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC021-Verify user can clone a project","testCaseId":"Test Cases/Projects/TC021-Verify user can clone a project","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC022-Verify user can edit template for sales or optin page","testCaseId":"Test Cases/Projects/TC022-Verify user can edit template for sales or optin page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC023-Verify user can edit template for both pages optin","testCaseId":"Test Cases/Projects/TC023-Verify user can edit template for both pages optin","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC024-Verify user can view template for sales or optin page","testCaseId":"Test Cases/Projects/TC024-Verify user can view template for sales or optin page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC025-Verify user can view template for thankyou page","testCaseId":"Test Cases/Projects/TC025-Verify user can view template for thankyou page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC026-Verify user can download HTML for sales-optin page","testCaseId":"Test Cases/Projects/TC026-Verify user can download HTML for sales-optin page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC027-Verify user can download HTML for thankyou page","testCaseId":"Test Cases/Projects/TC027-Verify user can download HTML for thankyou page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC028-Verify user can reset template for sales-optin page","testCaseId":"Test Cases/Projects/TC028-Verify user can reset template for sales-optin page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC029-Verify user can reset template for thankyou page","testCaseId":"Test Cases/Projects/TC029-Verify user can reset template for thankyou page","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC030-Verify user can add new product","testCaseId":"Test Cases/Projects/TC030-Verify user can add new product","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC031-Verify user can edit product","testCaseId":"Test Cases/Projects/TC031-Verify user can edit product","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC032-Verify user can delete product","testCaseId":"Test Cases/Projects/TC032-Verify user can delete product","iterationVariableName":""}
+{"testCaseName":"Test Cases/Projects/TC033-Verify user can add new email","testCaseId":"Test Cases/Projects/TC033-Verify user can add new email","iterationVariableName":""}

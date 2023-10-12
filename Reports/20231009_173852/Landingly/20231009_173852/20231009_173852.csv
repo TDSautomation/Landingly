@@ -1,0 +1,464 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Landingly,Chrome 117.0.0.0,,,2023-10-09 17:39:05,2023-10-09 18:02:16,23m - 10.359s,FAILED
+,,,,,,,
+Test Cases/Contacts/TC001-contacts-Verify user can add new contact,Chrome 117.0.0.0,,,2023-10-09 17:39:07,2023-10-09 17:39:49,42.743s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:39:08,2023-10-09 17:39:19,10.848s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:39:19,2023-10-09 17:39:20,0.731s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:39:20,2023-10-09 17:39:25,5.135s,PASSED
+"setText(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:39:25,2023-10-09 17:39:27,1.808s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:39:27,2023-10-09 17:39:28,0.928s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:39:28,2023-10-09 17:39:29,0.685s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly/a_Contacts""))",Chrome 117.0.0.0,,,2023-10-09 17:39:29,2023-10-09 17:39:31,2.415s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/button_New Contact""))",Chrome 117.0.0.0,,,2023-10-09 17:39:31,2023-10-09 17:39:35,3.557s,PASSED
+"setText(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/input__Name""), ""new test contact"")",Chrome 117.0.0.0,,,2023-10-09 17:39:35,2023-10-09 17:39:39,4.333s,PASSED
+address = customKeywords.Emailautomation.populateEmail(),Chrome 117.0.0.0,,,2023-10-09 17:39:39,2023-10-09 17:39:39,0.049s,PASSED
+"setText(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/input__Email""), address)",Chrome 117.0.0.0,,,2023-10-09 17:39:39,2023-10-09 17:39:41,1.835s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/input__ProjectIds""))",Chrome 117.0.0.0,,,2023-10-09 17:39:41,2023-10-09 17:39:42,0.806s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/span_new optin project""))",Chrome 117.0.0.0,,,2023-10-09 17:39:42,2023-10-09 17:39:43,1.073s,PASSED
+"click(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/button_Save""))",Chrome 117.0.0.0,,,2023-10-09 17:39:43,2023-10-09 17:39:44,1.072s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Contacts/TC001-contacts-Verify user can add new contact/Page_Landingly  Contacts/div_Contact is added successfully""), ""Contact is added successfully"")",Chrome 117.0.0.0,,,2023-10-09 17:39:44,2023-10-09 17:39:47,3.226s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:39:47,2023-10-09 17:39:49,2.500s,PASSED
+,,,,,,,
+Test Cases/Dashboard/TC014-Verify user can click on continue button,Chrome 117.0.0.0,,,2023-10-09 17:39:49,2023-10-09 17:40:45,55.607s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:39:51,2023-10-09 17:39:54,3.247s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:39:54,2023-10-09 17:40:07,13.017s,PASSED
+"setText(findTestObject(""Object Repository/Dashboard/TC014-Verify user can click on continue button/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:40:07,2023-10-09 17:40:08,1.267s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Dashboard/TC014-Verify user can click on continue button/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:40:08,2023-10-09 17:40:09,0.784s,PASSED
+"click(findTestObject(""Object Repository/Dashboard/TC014-Verify user can click on continue button/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:40:09,2023-10-09 17:40:10,0.630s,PASSED
+"click(findTestObject(""Object Repository/Dashboard/TC014-Verify user can click on continue button/Page_Landingly/button_Continue""))",Chrome 117.0.0.0,,,2023-10-09 17:40:10,2023-10-09 17:40:13,3.027s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Dashboard/TC014-Verify user can click on continue button/Page_Landingly  Projects/h2_Projects""), ""Projects"")",Chrome 117.0.0.0,,,2023-10-09 17:40:13,2023-10-09 17:40:45,32.335s,FAILED
+,,,,,,,
+Test Cases/Dashboard/TC015-Verify user can change theme dark-light,Chrome 117.0.0.0,,,2023-10-09 17:40:45,2023-10-09 17:41:13,28.314s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:40:46,2023-10-09 17:40:50,3.952s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:40:50,2023-10-09 17:40:51,0.243s,PASSED
+"navigateToUrl(""https://app.landingly.com/login"")",Chrome 117.0.0.0,,,2023-10-09 17:40:51,2023-10-09 17:40:57,6.682s,PASSED
+"setText(findTestObject(""Object Repository/Dashboard/TC015-Verify user can change theme dark-light/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:40:57,2023-10-09 17:40:58,1.216s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Dashboard/TC015-Verify user can change theme dark-light/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:40:58,2023-10-09 17:40:59,0.907s,PASSED
+"click(findTestObject(""Object Repository/Dashboard/TC015-Verify user can change theme dark-light/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:40:59,2023-10-09 17:41:00,0.776s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:41:00,2023-10-09 17:41:10,10.127s,PASSED
+"if (verifyElementPresent(findTestObject(""Object Repository/Dashboard/TC015-Verify user can change theme dark-light/Page_Landingly/svg_Profile_feather feather-sun""), 10, CONTINUE_ON_FAILURE))",Chrome 117.0.0.0,,,2023-10-09 17:41:10,2023-10-09 17:41:12,1.809s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:41:12,2023-10-09 17:41:13,1.307s,PASSED
+,,,,,,,
+Test Cases/Login/TC001-Validlogin,Chrome 117.0.0.0,,,2023-10-09 17:41:13,2023-10-09 17:41:27,13.982s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:41:14,2023-10-09 17:41:17,2.925s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:41:17,2023-10-09 17:41:18,0.210s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:41:18,2023-10-09 17:41:24,5.935s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC001-Validlogin/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:41:24,2023-10-09 17:41:25,1.259s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC001-Validlogin/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:41:25,2023-10-09 17:41:26,0.801s,PASSED
+"click(findTestObject(""Object Repository/Login/TC001-Validlogin/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:41:26,2023-10-09 17:41:26,0.720s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:41:26,2023-10-09 17:41:27,1.097s,PASSED
+,,,,,,,
+Test Cases/Login/TC002-Valid Email and Invalid Password,Chrome 117.0.0.0,,,2023-10-09 17:41:27,2023-10-09 17:42:22,54.510s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:41:28,2023-10-09 17:41:31,2.743s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:41:31,2023-10-09 17:41:31,0.195s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:41:31,2023-10-09 17:42:10,39.032s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC002-Valid Email and Invalid Password/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:42:10,2023-10-09 17:42:14,3.810s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC002-Valid Email and Invalid Password/Page_Landingly  Login/input_Forgot Password_login-password""), ""aeHFOx8jV/A="")",Chrome 117.0.0.0,,,2023-10-09 17:42:14,2023-10-09 17:42:16,1.985s,PASSED
+"click(findTestObject(""Object Repository/Login/TC002-Valid Email and Invalid Password/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:42:16,2023-10-09 17:42:18,1.876s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC002-Valid Email and Invalid Password/Page_Landingly  Login/h5_Invalid Login Attempt""), ""Invalid Login Attempt"")",Chrome 117.0.0.0,,,2023-10-09 17:42:18,2023-10-09 17:42:22,3.874s,FAILED
+,,,,,,,
+Test Cases/Login/TC003-Invalid Email and valid Password,Chrome 117.0.0.0,,,2023-10-09 17:42:22,2023-10-09 17:42:39,16.607s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:42:23,2023-10-09 17:42:27,3.797s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:42:27,2023-10-09 17:42:27,0.207s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:42:27,2023-10-09 17:42:32,5.466s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC003-Invalid Email and valid Password/Page_Landingly  Login/input_Email_login-email""), ""sqahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:42:32,2023-10-09 17:42:34,1.414s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC003-Invalid Email and valid Password/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:42:34,2023-10-09 17:42:35,1.143s,PASSED
+"click(findTestObject(""Login/TC003-Invalid Email and valid Password/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:42:35,2023-10-09 17:42:36,0.699s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC003-Invalid Email and valid Password/Page_Landingly  Login/h5_Invalid Login Attempt""), ""Invalid Login Attempt"")",Chrome 117.0.0.0,,,2023-10-09 17:42:36,2023-10-09 17:42:38,1.922s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:42:38,2023-10-09 17:42:39,0.997s,PASSED
+,,,,,,,
+Test Cases/Login/TC004-Empty Login Fields,Chrome 117.0.0.0,,,2023-10-09 17:42:39,2023-10-09 17:42:59,20.319s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:42:40,2023-10-09 17:42:42,2.691s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:42:42,2023-10-09 17:42:43,0.257s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:42:43,2023-10-09 17:42:57,14.657s,PASSED
+"verifyElementNotClickable(findTestObject(""Object Repository/Login/TC004-Empty Login Fields/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:42:57,2023-10-09 17:42:58,0.544s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:42:58,2023-10-09 17:42:59,0.992s,PASSED
+,,,,,,,
+Test Cases/Login/TC005-Invalid Email and invalid Password,Chrome 117.0.0.0,,,2023-10-09 17:42:59,2023-10-09 17:43:14,14.792s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:43:00,2023-10-09 17:43:03,2.799s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:43:03,2023-10-09 17:43:08,5.621s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC005-Invalid Email and invalid Password/Page_Landingly  Login/input_Email_login-email""), ""sqahmadtahri@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:43:08,2023-10-09 17:43:09,1.164s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC005-Invalid Email and invalid Password/Page_Landingly  Login/input_Forgot Password_login-password""), ""iGDxf8hSRT4="")",Chrome 117.0.0.0,,,2023-10-09 17:43:09,2023-10-09 17:43:10,0.742s,PASSED
+"click(findTestObject(""Object Repository/Login/TC005-Invalid Email and invalid Password/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:43:10,2023-10-09 17:43:11,0.610s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC005-Invalid Email and invalid Password/Page_Landingly  Login/h5_Invalid Login Attempt""), ""Invalid Login Attempt"")",Chrome 117.0.0.0,,,2023-10-09 17:43:11,2023-10-09 17:43:13,1.820s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:43:13,2023-10-09 17:43:14,1.046s,PASSED
+,,,,,,,
+Test Cases/Login/TC006-Empty Username and Valid Password,Chrome 117.0.0.0,,,2023-10-09 17:43:14,2023-10-09 17:43:26,12.615s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:43:15,2023-10-09 17:43:18,2.961s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:43:18,2023-10-09 17:43:23,5.883s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC006-Empty Username and Valid Password/Page_Landingly  Login/input_Forgot Password_login-password""), ""7Dxoto1EjKfQbGop/Ov+1g=="")",Chrome 117.0.0.0,,,2023-10-09 17:43:23,2023-10-09 17:43:24,0.831s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC006-Empty Username and Valid Password/Page_Landingly  Login/input_Email_login-email""), """")",Chrome 117.0.0.0,,,2023-10-09 17:43:24,2023-10-09 17:43:25,0.520s,PASSED
+"verifyElementNotClickable(findTestObject(""Login/TC006-Empty Username and Valid Password/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:43:25,2023-10-09 17:43:25,0.489s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:43:25,2023-10-09 17:43:26,1.039s,PASSED
+,,,,,,,
+Test Cases/Login/TC007-Valid Username and Empty Password,Chrome 117.0.0.0,,,2023-10-09 17:43:26,2023-10-09 17:43:39,12.575s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:43:27,2023-10-09 17:43:30,2.666s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:43:30,2023-10-09 17:43:36,5.727s,PASSED
+"setText(findTestObject(""Login/TC007-Valid Username and Empty Password/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:43:36,2023-10-09 17:43:37,1.192s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC006-Empty Username and Valid Password/Page_Landingly  Login/input_Forgot Password_login-password""), """")",Chrome 117.0.0.0,,,2023-10-09 17:43:37,2023-10-09 17:43:37,0.548s,PASSED
+"verifyElementNotClickable(findTestObject(""Object Repository/Login/TC007-Valid Username and Empty Password/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:43:37,2023-10-09 17:43:38,0.533s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:43:38,2023-10-09 17:43:39,1.006s,PASSED
+,,,,,,,
+Test Cases/Login/TC008-Verify user can logout,Chrome 117.0.0.0,,,2023-10-09 17:43:39,2023-10-09 17:44:26,47.043s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:43:40,2023-10-09 17:43:43,2.846s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:43:43,2023-10-09 17:44:14,31.530s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:44:14,2023-10-09 17:44:15,1.344s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:44:15,2023-10-09 17:44:16,0.850s,PASSED
+"click(findTestObject(""Login/TC008-Verify user can logout/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:44:16,2023-10-09 17:44:17,0.644s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly/h5_Welcome Muhammad Ahmad Tahir""), ""Welcome Muhammad Ahmad Tahir"")",Chrome 117.0.0.0,,,2023-10-09 17:44:17,2023-10-09 17:44:19,2.498s,PASSED
+"click(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly/img""))",Chrome 117.0.0.0,,,2023-10-09 17:44:19,2023-10-09 17:44:22,3.010s,PASSED
+"click(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly/span_Logout""))",Chrome 117.0.0.0,,,2023-10-09 17:44:22,2023-10-09 17:44:24,1.812s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC008-Verify user can logout/Page_Landingly  Login/p_Please sign-in to your account""), ""Please sign-in to your account"")",Chrome 117.0.0.0,,,2023-10-09 17:44:24,2023-10-09 17:44:25,0.553s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:44:25,2023-10-09 17:44:26,1.077s,PASSED
+,,,,,,,
+Test Cases/Login/TC009-Verify forget password working fine,Chrome 117.0.0.0,,,2023-10-09 17:44:26,2023-10-09 17:44:42,15.855s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:44:27,2023-10-09 17:44:30,2.873s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:44:30,2023-10-09 17:44:36,5.927s,PASSED
+"click(findTestObject(""Object Repository/Login/TC009-Verify forget password working fine/Page_Landingly  Login/small_Forgot Password""))",Chrome 117.0.0.0,,,2023-10-09 17:44:36,2023-10-09 17:44:36,0.626s,PASSED
+"setText(findTestObject(""Object Repository/Login/TC009-Verify forget password working fine/Page_Landingly  Login/input_Email_useremail""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:44:36,2023-10-09 17:44:38,1.553s,PASSED
+"click(findTestObject(""Object Repository/Login/TC009-Verify forget password working fine/Page_Landingly  Login/button_Send password reset link""))",Chrome 117.0.0.0,,,2023-10-09 17:44:38,2023-10-09 17:44:38,0.587s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Login/TC009-Verify forget password working fine/Page_Landingly  Login/h5_Please check your email to reset a new password""), ""Please check your email to reset a new password."")",Chrome 117.0.0.0,,,2023-10-09 17:44:38,2023-10-09 17:44:41,2.322s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:44:41,2023-10-09 17:44:42,1.054s,PASSED
+,,,,,,,
+Test Cases/Profile/TC010-Verify user can upload profile picture,Chrome 117.0.0.0,,,2023-10-09 17:44:42,2023-10-09 17:45:13,31.261s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:44:43,2023-10-09 17:44:45,2.708s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:44:45,2023-10-09 17:44:46,0.251s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:44:46,2023-10-09 17:44:51,5.384s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC010-Verify user can upload profile picture/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:44:51,2023-10-09 17:44:52,1.211s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile/TC010-Verify user can upload profile picture/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:44:52,2023-10-09 17:44:53,0.807s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC010-Verify user can upload profile picture/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:44:53,2023-10-09 17:44:54,0.691s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC010-Verify user can upload profile picture/Page_Landingly/img""))",Chrome 117.0.0.0,,,2023-10-09 17:44:54,2023-10-09 17:44:59,5.446s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC010-Verify user can upload profile picture/Page_Landingly/span_Profile""))",Chrome 117.0.0.0,,,2023-10-09 17:44:59,2023-10-09 17:45:00,0.726s,PASSED
+"uploadFile(findTestObject(""Profile/TC010-Verify user can upload profile picture/Page_Landingly  Profile/uploadimage""), ""C:/Users/TDS/git/Landingly/images/linkedin(2).png"")",Chrome 117.0.0.0,,,2023-10-09 17:45:00,2023-10-09 17:45:01,1.334s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:45:01,2023-10-09 17:45:11,10.020s,PASSED
+"attribute = getAttribute(findTestObject(""Profile/TC010-Verify user can upload profile picture/Page_Landingly  Profile/varifyimageuploaded""), ""src"")",Chrome 117.0.0.0,,,2023-10-09 17:45:11,2023-10-09 17:45:12,0.536s,PASSED
+"verifyNotMatch(attribute, ""https://api.landingly.com/Images/profile.png"", false)",Chrome 117.0.0.0,,,2023-10-09 17:45:12,2023-10-09 17:45:12,0.028s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:45:12,2023-10-09 17:45:13,1.160s,PASSED
+,,,,,,,
+Test Cases/Profile/TC011-Verify user can remove profile picture,Chrome 117.0.0.0,,,2023-10-09 17:45:13,2023-10-09 17:46:55,1m - 41.704s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:45:14,2023-10-09 17:45:17,3.204s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:45:17,2023-10-09 17:45:18,0.185s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:45:18,2023-10-09 17:46:13,55.056s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:46:13,2023-10-09 17:46:14,1.088s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:46:14,2023-10-09 17:46:14,0.693s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:46:14,2023-10-09 17:46:15,0.664s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly/img""))",Chrome 117.0.0.0,,,2023-10-09 17:46:15,2023-10-09 17:46:21,5.757s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly/span_Profile""))",Chrome 117.0.0.0,,,2023-10-09 17:46:21,2023-10-09 17:46:21,0.576s,PASSED
+"mouseOver(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly  Profile/rect""))",Chrome 117.0.0.0,,,2023-10-09 17:46:21,2023-10-09 17:46:23,1.899s,PASSED
+"click(findTestObject(""Profile/TC011-Verify user can remove profile picture/Page_Landingly  Profile/rect - Copy""))",Chrome 117.0.0.0,,,2023-10-09 17:46:23,2023-10-09 17:46:42,18.515s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC011-Verify user can remove profile picture/Page_Landingly  Profile/button_Delete""))",Chrome 117.0.0.0,,,2023-10-09 17:46:42,2023-10-09 17:46:42,0.657s,PASSED
+"attribute = getAttribute(findTestObject(""Profile/TC011-Verify user can remove profile picture/Page_Landingly  Profile/varifyimage""), ""src"")",Chrome 117.0.0.0,,,2023-10-09 17:46:42,2023-10-09 17:46:44,1.120s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:46:44,2023-10-09 17:46:54,10.017s,PASSED
+"verifyMatch(attribute, ""https://api.landingly.com/Images/profile.png"", false)",Chrome 117.0.0.0,,,2023-10-09 17:46:54,2023-10-09 17:46:54,0.036s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:46:54,2023-10-09 17:46:55,1.129s,PASSED
+,,,,,,,
+Test Cases/Profile/TC012-Verify user can change profile name and save,Chrome 117.0.0.0,,,2023-10-09 17:46:55,2023-10-09 17:47:20,24.730s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:46:56,2023-10-09 17:46:59,2.943s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:46:59,2023-10-09 17:47:04,5.076s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:47:04,2023-10-09 17:47:05,1.171s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:47:05,2023-10-09 17:47:06,0.755s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:47:06,2023-10-09 17:47:06,0.596s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly/svg_Profile_bi-person-fill b-icon bi""))",Chrome 117.0.0.0,,,2023-10-09 17:47:06,2023-10-09 17:47:12,5.581s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly/span_Profile""))",Chrome 117.0.0.0,,,2023-10-09 17:47:12,2023-10-09 17:47:12,0.561s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Profile/input__FirstName""), ""Muhammad"")",Chrome 117.0.0.0,,,2023-10-09 17:47:12,2023-10-09 17:47:15,2.283s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Profile/input__LastName""), ""Ahmad Tahir"")",Chrome 117.0.0.0,,,2023-10-09 17:47:15,2023-10-09 17:47:16,1.234s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Profile/button_Save""))",Chrome 117.0.0.0,,,2023-10-09 17:47:16,2023-10-09 17:47:16,0.554s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Profile/h2_Success""), ""Success"")",Chrome 117.0.0.0,,,2023-10-09 17:47:16,2023-10-09 17:47:18,1.403s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC012-Verify user can change profile name and save/Page_Landingly  Profile/button_OK""))",Chrome 117.0.0.0,,,2023-10-09 17:47:18,2023-10-09 17:47:18,0.523s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:47:18,2023-10-09 17:47:20,1.118s,PASSED
+,,,,,,,
+Test Cases/Profile/TC013-Verify change password working fine,Chrome 117.0.0.0,,,2023-10-09 17:47:20,2023-10-09 17:47:59,39.577s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:47:21,2023-10-09 17:47:23,2.727s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:47:23,2023-10-09 17:47:51,27.594s,PASSED
+"setText(findTestObject(""Object Repository/Profile/TC013-Verify change password working fine/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:47:51,2023-10-09 17:47:52,1.194s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Profile/TC013-Verify change password working fine/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:47:52,2023-10-09 17:47:53,0.881s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC013-Verify change password working fine/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:47:53,2023-10-09 17:47:54,0.619s,PASSED
+"click(findTestObject(""Object Repository/Profile/TC013-Verify change password working fine/Page_Landingly/img""))",Chrome 117.0.0.0,,,2023-10-09 17:47:54,2023-10-09 17:47:59,5.567s,FAILED
+,,,,,,,
+Test Cases/Projects/TC016-Verify user can create new project sales,Chrome 117.0.0.0,,,2023-10-09 17:47:59,2023-10-09 17:48:38,38.517s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:48:00,2023-10-09 17:48:04,3.876s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:48:04,2023-10-09 17:48:04,0.328s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:48:04,2023-10-09 17:48:10,5.748s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:48:10,2023-10-09 17:48:11,1.166s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:48:11,2023-10-09 17:48:12,0.744s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:48:12,2023-10-09 17:48:13,0.658s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:48:13,2023-10-09 17:48:16,3.217s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 17:48:16,2023-10-09 17:48:20,4.417s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Projects/input__ProjectName""), ""new sales prject"")",Chrome 117.0.0.0,,,2023-10-09 17:48:20,2023-10-09 17:48:23,2.314s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Projects/label_Sales Funnel""))",Chrome 117.0.0.0,,,2023-10-09 17:48:23,2023-10-09 17:48:24,0.870s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Projects/button_Build Project""))",Chrome 117.0.0.0,,,2023-10-09 17:48:24,2023-10-09 17:48:24,0.715s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:48:24,2023-10-09 17:48:31,6.920s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:48:31,2023-10-09 17:48:34,2.793s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Projects/TC016-Verify user can create new project sales/Page_Landingly  Project Detail/span_new sales prject""), ""new sales prject"")",Chrome 117.0.0.0,,,2023-10-09 17:48:34,2023-10-09 17:48:36,2.199s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:48:36,2023-10-09 17:48:38,1.513s,PASSED
+,,,,,,,
+Test Cases/Projects/TC017-Verify user can create new project optin,Chrome 117.0.0.0,,,2023-10-09 17:48:38,2023-10-09 17:49:12,34.408s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:48:39,2023-10-09 17:48:42,3.435s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:48:42,2023-10-09 17:48:43,0.277s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:48:43,2023-10-09 17:48:49,6.677s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:48:49,2023-10-09 17:48:51,1.287s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:48:51,2023-10-09 17:48:51,0.779s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:48:51,2023-10-09 17:48:52,0.744s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:48:52,2023-10-09 17:48:54,2.172s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 17:48:54,2023-10-09 17:48:59,4.581s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Projects/input__ProjectName""), ""new optin project"")",Chrome 117.0.0.0,,,2023-10-09 17:48:59,2023-10-09 17:49:01,1.930s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Projects/button_Build Project""))",Chrome 117.0.0.0,,,2023-10-09 17:49:01,2023-10-09 17:49:02,1.018s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Project Detail/span_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:49:02,2023-10-09 17:49:07,4.985s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:49:07,2023-10-09 17:49:09,2.300s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Projects/TC017-Verify user can create new project optin/Page_Landingly  Project Detail/span_new optin project""), ""new optin project"")",Chrome 117.0.0.0,,,2023-10-09 17:49:09,2023-10-09 17:49:11,1.680s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:49:11,2023-10-09 17:49:12,1.331s,PASSED
+,,,,,,,
+Test Cases/Projects/TC018-Verify user can view project,Chrome 117.0.0.0,,,2023-10-09 17:49:12,2023-10-09 17:49:44,32.106s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:49:13,2023-10-09 17:49:16,3.007s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:49:16,2023-10-09 17:49:16,0.229s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:49:16,2023-10-09 17:49:23,6.133s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:49:23,2023-10-09 17:49:24,1.226s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:49:24,2023-10-09 17:49:25,0.854s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:49:25,2023-10-09 17:49:25,0.674s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:49:25,2023-10-09 17:49:35,10.020s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:49:35,2023-10-09 17:49:36,0.526s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:49:36,2023-10-09 17:49:40,4.062s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Projects/TC018-Verify user can view project/Page_Landingly  Project Detail/h2_Project Detail""), ""Project Detail"")",Chrome 117.0.0.0,,,2023-10-09 17:49:40,2023-10-09 17:49:43,2.899s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:49:43,2023-10-09 17:49:44,1.374s,PASSED
+,,,,,,,
+Test Cases/Projects/TC019-Verify user can archive a project,Chrome 117.0.0.0,,,2023-10-09 17:49:44,2023-10-09 17:50:05,20.753s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:49:45,2023-10-09 17:49:48,2.785s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:49:48,2023-10-09 17:49:48,0.200s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:49:48,2023-10-09 17:49:53,4.998s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:49:53,2023-10-09 17:49:55,1.350s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:49:55,2023-10-09 17:49:56,0.901s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:49:56,2023-10-09 17:49:56,0.710s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:49:56,2023-10-09 17:49:59,2.603s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly  Projects/button_View Project_btn btn-icon pull-right_ab2ff2""))",Chrome 117.0.0.0,,,2023-10-09 17:49:59,2023-10-09 17:50:03,4.365s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC019-Verify user can archive a project/Page_Landingly  Projects/button_Archive""))",Chrome 117.0.0.0,,,2023-10-09 17:50:03,2023-10-09 17:50:05,1.668s,FAILED
+,,,,,,,
+Test Cases/Projects/TC020-Verify user can restore a archived project,Chrome 117.0.0.0,,,2023-10-09 17:50:05,2023-10-09 17:51:13,1m - 8.259s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:50:06,2023-10-09 17:50:10,4.090s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:50:10,2023-10-09 17:50:11,0.247s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:50:11,2023-10-09 17:50:51,40.341s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:50:51,2023-10-09 17:50:52,1.135s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:50:52,2023-10-09 17:50:53,0.735s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:50:53,2023-10-09 17:50:53,0.647s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:50:53,2023-10-09 17:50:56,2.961s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Projects/button_Archived Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:50:56,2023-10-09 17:51:08,11.403s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Projects/svg_new optin project_feather feather-corne_a5ecad""))",Chrome 117.0.0.0,,,2023-10-09 17:51:08,2023-10-09 17:51:10,2.098s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC020-Verify user can restore a archived project/Page_Landingly  Projects/button_Restore""))",Chrome 117.0.0.0,,,2023-10-09 17:51:10,2023-10-09 17:51:12,1.706s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:51:12,2023-10-09 17:51:13,1.670s,PASSED
+,,,,,,,
+Test Cases/Projects/TC021-Verify user can clone a project,Chrome 117.0.0.0,,,2023-10-09 17:51:13,2023-10-09 17:52:04,50.970s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:51:14,2023-10-09 17:51:17,2.979s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:51:17,2023-10-09 17:51:17,0.243s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:51:17,2023-10-09 17:51:23,5.339s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:51:23,2023-10-09 17:51:24,1.235s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:51:24,2023-10-09 17:51:25,0.730s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:51:25,2023-10-09 17:51:25,0.625s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:51:25,2023-10-09 17:51:28,2.166s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly  Projects/button_View Project_btn btn-icon pull-right_e2b191""))",Chrome 117.0.0.0,,,2023-10-09 17:51:28,2023-10-09 17:51:32,4.895s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC021-Verify user can clone a project/Page_Landingly  Projects/button_Clone""))",Chrome 117.0.0.0,,,2023-10-09 17:51:32,2023-10-09 17:52:04,31.799s,FAILED
+,,,,,,,
+Test Cases/Projects/TC022-Verify user can edit template for sales or optin page,Chrome 117.0.0.0,,,2023-10-09 17:52:04,2023-10-09 17:52:34,29.572s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:52:05,2023-10-09 17:52:09,4.120s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:52:09,2023-10-09 17:52:09,0.197s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:52:09,2023-10-09 17:52:18,8.950s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:52:18,2023-10-09 17:52:20,1.262s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:52:20,2023-10-09 17:52:20,0.750s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:52:20,2023-10-09 17:52:21,0.601s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:52:21,2023-10-09 17:52:23,2.159s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:52:23,2023-10-09 17:52:28,4.510s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Project Detail/a_Contacts_btn btn-icon btn-flat-primary""))",Chrome 117.0.0.0,,,2023-10-09 17:52:28,2023-10-09 17:52:31,3.056s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Projects/TC022-Verify user can edit template for sales or optin page/Page_Landingly  Edit Project/span_Edit Project""), ""Edit Project"")",Chrome 117.0.0.0,,,2023-10-09 17:52:31,2023-10-09 17:52:33,1.795s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:52:33,2023-10-09 17:52:34,1.250s,PASSED
+,,,,,,,
+Test Cases/Projects/TC023-Verify user can edit template for both pages optin,Chrome 117.0.0.0,,,2023-10-09 17:52:34,2023-10-09 17:52:49,15.238s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:52:35,2023-10-09 17:52:38,3.034s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:52:38,2023-10-09 17:52:44,5.483s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC023-Verify user can edit template for thankyou page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:52:44,2023-10-09 17:52:45,1.352s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC023-Verify user can edit template for thankyou page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:52:45,2023-10-09 17:52:46,0.824s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC023-Verify user can edit template for thankyou page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:52:46,2023-10-09 17:52:46,0.672s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC023-Verify user can edit template for thankyou page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:52:46,2023-10-09 17:52:49,2.609s,FAILED
+,,,,,,,
+Test Cases/Projects/TC024-Verify user can view template for sales or optin page,Chrome 117.0.0.0,,,2023-10-09 17:52:49,2023-10-09 17:53:39,50.414s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:52:51,2023-10-09 17:52:54,3.223s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:52:54,2023-10-09 17:52:54,0.321s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:52:54,2023-10-09 17:53:15,20.859s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:53:15,2023-10-09 17:53:16,1.087s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:53:16,2023-10-09 17:53:17,0.726s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:53:17,2023-10-09 17:53:18,0.638s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:53:18,2023-10-09 17:53:20,2.614s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:53:20,2023-10-09 17:53:25,4.186s,PASSED
+"switchToWindowTitle(""Landingly | Project Detail"")",Chrome 117.0.0.0,,,2023-10-09 17:53:25,2023-10-09 17:53:26,1.494s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC024-Verify user can view template for sales or optin page/Page_Landingly  Project Detail/a_Contacts_btn btn-icon btn-flat-warning""))",Chrome 117.0.0.0,,,2023-10-09 17:53:26,2023-10-09 17:53:28,2.179s,PASSED
+switchToWindowIndex(1),Chrome 117.0.0.0,,,2023-10-09 17:53:28,2023-10-09 17:53:28,0.142s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:53:28,2023-10-09 17:53:38,10.014s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:53:38,2023-10-09 17:53:39,1.091s,PASSED
+,,,,,,,
+Test Cases/Projects/TC025-Verify user can view template for thankyou page,Chrome 117.0.0.0,,,2023-10-09 17:53:39,2023-10-09 17:54:15,35.555s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:53:40,2023-10-09 17:53:43,3.020s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:53:43,2023-10-09 17:53:44,0.344s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:53:44,2023-10-09 17:53:50,5.738s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:53:50,2023-10-09 17:53:51,1.242s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:53:51,2023-10-09 17:53:52,0.780s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:53:52,2023-10-09 17:53:52,0.713s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:53:52,2023-10-09 17:53:54,2.160s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:53:54,2023-10-09 17:54:00,5.673s,PASSED
+"switchToWindowTitle(""Landingly | Project Detail"")",Chrome 117.0.0.0,,,2023-10-09 17:54:00,2023-10-09 17:54:01,1.082s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC025-Verify user can view template for thankyou page/Page_Landingly  Project Detail/a_Contacts_btn btn-icon btn-flat-warning""))",Chrome 117.0.0.0,,,2023-10-09 17:54:01,2023-10-09 17:54:03,2.202s,PASSED
+switchToWindowIndex(1),Chrome 117.0.0.0,,,2023-10-09 17:54:03,2023-10-09 17:54:03,0.075s,PASSED
+titleWindow = getWindowTitle(),Chrome 117.0.0.0,,,2023-10-09 17:54:03,2023-10-09 17:54:14,10.352s,PASSED
+"verifyMatch(titleWindow, ""Template View"", true)",Chrome 117.0.0.0,,,2023-10-09 17:54:14,2023-10-09 17:54:14,0.005s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:54:14,2023-10-09 17:54:15,1.198s,PASSED
+,,,,,,,
+Test Cases/Projects/TC026-Verify user can download HTML for sales-optin page,Chrome 117.0.0.0,,,2023-10-09 17:54:15,2023-10-09 17:55:02,46.934s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:54:16,2023-10-09 17:54:19,3.128s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:54:19,2023-10-09 17:54:20,0.302s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:54:20,2023-10-09 17:54:29,9.946s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:54:29,2023-10-09 17:54:31,1.248s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:54:31,2023-10-09 17:54:31,0.765s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:54:31,2023-10-09 17:54:32,0.730s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:54:32,2023-10-09 17:54:35,2.458s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:54:35,2023-10-09 17:54:39,4.792s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:54:39,2023-10-09 17:54:49,10.016s,PASSED
+"address = getText(findTestObject(""Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Project Detail/span_new optin project""))",Chrome 117.0.0.0,,,2023-10-09 17:54:49,2023-10-09 17:54:50,0.496s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC026-Verify user can download HTML for sale-optin page/Page_Landingly  Project Detail/button_Contacts_btn btn-icon btn-flat-info""))",Chrome 117.0.0.0,,,2023-10-09 17:54:50,2023-10-09 17:54:51,0.633s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:54:51,2023-10-09 17:55:01,10.021s,PASSED
+cusKeyword.isFileDownloaded.isFileDownloaded(address),Chrome 117.0.0.0,,,2023-10-09 17:55:01,2023-10-09 17:55:01,0.200s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:55:01,2023-10-09 17:55:02,1.172s,PASSED
+,,,,,,,
+Test Cases/Projects/TC027-Verify user can download HTML for thankyou page,Chrome 117.0.0.0,,,2023-10-09 17:55:02,2023-10-09 17:55:44,42.021s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:55:03,2023-10-09 17:55:06,3.001s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:55:06,2023-10-09 17:55:06,0.281s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:55:06,2023-10-09 17:55:12,5.325s,PASSED
+"setText(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:55:12,2023-10-09 17:55:13,1.229s,PASSED
+"setEncryptedText(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:55:13,2023-10-09 17:55:14,0.730s,PASSED
+"click(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:55:14,2023-10-09 17:55:14,0.821s,PASSED
+"click(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:55:14,2023-10-09 17:55:17,2.239s,PASSED
+"click(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:55:17,2023-10-09 17:55:22,4.994s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:55:22,2023-10-09 17:55:32,10.020s,PASSED
+"address = getText(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Project Detail/span_new optin project""))",Chrome 117.0.0.0,,,2023-10-09 17:55:32,2023-10-09 17:55:32,0.520s,PASSED
+"click(findTestObject(""Projects/TC027-Verify user can download HTML for thankyou page/Page_Landingly  Project Detail/button_Contacts_btn btn-icon btn-flat-info""))",Chrome 117.0.0.0,,,2023-10-09 17:55:32,2023-10-09 17:55:33,0.703s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:55:33,2023-10-09 17:55:43,10.014s,PASSED
+cusKeyword.isFileDownloaded.isFileDownloaded(address),Chrome 117.0.0.0,,,2023-10-09 17:55:43,2023-10-09 17:55:43,0.035s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:55:43,2023-10-09 17:55:44,1.129s,PASSED
+,,,,,,,
+Test Cases/Projects/TC028-Verify user can reset template for sales-optin page,Chrome 117.0.0.0,,,2023-10-09 17:55:44,2023-10-09 17:56:08,24.342s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:55:45,2023-10-09 17:55:48,3.009s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:55:48,2023-10-09 17:55:48,0.322s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:55:48,2023-10-09 17:55:54,6.085s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:55:54,2023-10-09 17:55:56,1.241s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:55:56,2023-10-09 17:55:56,0.805s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:55:56,2023-10-09 17:55:57,0.647s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:55:57,2023-10-09 17:56:00,2.901s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:56:00,2023-10-09 17:56:05,5.428s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Project Detail/button_Contacts_btn btn-icon btn-flat-danger""))",Chrome 117.0.0.0,,,2023-10-09 17:56:05,2023-10-09 17:56:06,1.088s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC028-Verify user can reset template for sales-optin page/Page_Landingly  Project Detail/button_Reset""))",Chrome 117.0.0.0,,,2023-10-09 17:56:06,2023-10-09 17:56:08,1.865s,FAILED
+,,,,,,,
+Test Cases/Projects/TC029-Verify user can reset template for thankyou page,Chrome 117.0.0.0,,,2023-10-09 17:56:08,2023-10-09 17:57:07,58.199s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:56:11,2023-10-09 17:56:15,4.204s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:56:15,2023-10-09 17:56:16,0.311s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:56:16,2023-10-09 17:56:21,5.621s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:56:21,2023-10-09 17:56:23,1.309s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:56:23,2023-10-09 17:56:23,0.826s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:56:23,2023-10-09 17:56:24,0.668s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:56:24,2023-10-09 17:56:26,2.434s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Projects/a_View Project""))",Chrome 117.0.0.0,,,2023-10-09 17:56:26,2023-10-09 17:56:31,4.768s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Project Detail/button_Contacts_btn btn-icon btn-flat-danger""))",Chrome 117.0.0.0,,,2023-10-09 17:56:31,2023-10-09 17:56:35,3.597s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC029-Verify user can reset template for thankyou page/Page_Landingly  Project Detail/button_Reset""))",Chrome 117.0.0.0,,,2023-10-09 17:56:35,2023-10-09 17:57:07,31.763s,FAILED
+,,,,,,,
+Test Cases/Projects/TC030-Verify user can add new product,Chrome 117.0.0.0,,,2023-10-09 17:57:07,2023-10-09 17:58:14,1m - 6.974s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:57:08,2023-10-09 17:57:11,3.835s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:57:11,2023-10-09 17:57:12,0.301s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:57:12,2023-10-09 17:57:26,14.186s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:57:26,2023-10-09 17:57:27,1.249s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:57:27,2023-10-09 17:57:28,0.761s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:57:28,2023-10-09 17:57:29,0.607s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:57:29,2023-10-09 17:57:30,1.787s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 17:57:30,2023-10-09 17:57:35,4.642s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Projects/input__ProjectName""), ""sales"")",Chrome 117.0.0.0,,,2023-10-09 17:57:35,2023-10-09 17:57:37,1.934s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Projects/label_Sales Funnel""))",Chrome 117.0.0.0,,,2023-10-09 17:57:37,2023-10-09 17:57:38,0.958s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Projects/button_Build Project""))",Chrome 117.0.0.0,,,2023-10-09 17:57:38,2023-10-09 17:57:39,0.926s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:57:39,2023-10-09 17:57:48,8.901s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:57:48,2023-10-09 17:57:50,2.477s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/button_Add New Product""))",Chrome 117.0.0.0,,,2023-10-09 17:57:50,2023-10-09 17:57:52,1.765s,PASSED
+populateSalesProjectName = customKeywords.Emailautomation.populateSalesProjectName(),Chrome 117.0.0.0,,,2023-10-09 17:57:52,2023-10-09 17:57:52,0.002s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/input__ProductName""), populateSalesProjectName)",Chrome 117.0.0.0,,,2023-10-09 17:57:52,2023-10-09 17:57:55,2.681s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/input__ProductPrice""), ""02"")",Chrome 117.0.0.0,,,2023-10-09 17:57:55,2023-10-09 17:57:56,1.493s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:57:56,2023-10-09 17:57:58,1.933s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:57:58,2023-10-09 17:57:59,1.296s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""2"", true)",Chrome 117.0.0.0,,,2023-10-09 17:57:59,2023-10-09 17:58:01,1.829s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""2"", true)",Chrome 117.0.0.0,,,2023-10-09 17:58:01,2023-10-09 17:58:05,3.658s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/a_Checkout Page Settings""))",Chrome 117.0.0.0,,,2023-10-09 17:58:05,2023-10-09 17:58:06,0.723s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:58:06,2023-10-09 17:58:08,2.113s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/button_Save""))",Chrome 117.0.0.0,,,2023-10-09 17:58:08,2023-10-09 17:58:10,1.844s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Projects/TC030-Verify user can add new product/Page_Landingly  Project Detail/td_new product""), populateSalesProjectName)",Chrome 117.0.0.0,,,2023-10-09 17:58:10,2023-10-09 17:58:12,2.658s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 17:58:12,2023-10-09 17:58:14,1.374s,PASSED
+,,,,,,,
+Test Cases/Projects/TC031-Verify user can edit product,Chrome 117.0.0.0,,,2023-10-09 17:58:14,2023-10-09 18:00:07,1m - 53.898s,PASSED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 17:58:15,2023-10-09 17:58:18,3.056s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 17:58:18,2023-10-09 17:58:18,0.208s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 17:58:18,2023-10-09 17:58:46,28.099s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 17:58:46,2023-10-09 17:58:47,1.103s,PASSED
+"setEncryptedText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 17:58:47,2023-10-09 17:58:48,0.728s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 17:58:48,2023-10-09 17:58:48,0.652s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 17:58:48,2023-10-09 17:58:51,2.143s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 17:58:51,2023-10-09 17:58:55,4.695s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Projects/input__ProjectName""), ""sales"")",Chrome 117.0.0.0,,,2023-10-09 17:58:55,2023-10-09 17:58:57,1.977s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Projects/label_Sales Funnel""))",Chrome 117.0.0.0,,,2023-10-09 17:58:57,2023-10-09 17:58:58,1.097s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Projects/button_Build Project""))",Chrome 117.0.0.0,,,2023-10-09 17:58:58,2023-10-09 17:58:59,0.879s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:58:59,2023-10-09 17:59:08,8.484s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:59:08,2023-10-09 17:59:11,3.414s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/button_Add New Product""))",Chrome 117.0.0.0,,,2023-10-09 17:59:11,2023-10-09 17:59:14,2.658s,PASSED
+populateSalesProjectName = customKeywords.Emailautomation.populateSalesProjectName(),Chrome 117.0.0.0,,,2023-10-09 17:59:14,2023-10-09 17:59:14,0.001s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/input__ProductName""), populateSalesProjectName)",Chrome 117.0.0.0,,,2023-10-09 17:59:14,2023-10-09 17:59:17,3.264s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/input__ProductPrice""), ""02"")",Chrome 117.0.0.0,,,2023-10-09 17:59:17,2023-10-09 17:59:19,1.436s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:19,2023-10-09 17:59:20,1.412s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:20,2023-10-09 17:59:21,1.235s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""2"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:21,2023-10-09 17:59:23,1.572s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""2"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:23,2023-10-09 17:59:27,4.152s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Checkout Page Settings""))",Chrome 117.0.0.0,,,2023-10-09 17:59:27,2023-10-09 17:59:28,1.070s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 17:59:28,2023-10-09 17:59:29,1.112s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/button_Save""))",Chrome 117.0.0.0,,,2023-10-09 17:59:29,2023-10-09 17:59:31,1.693s,PASSED
+"verifyElementText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/td_new product""), populateSalesProjectName)",Chrome 117.0.0.0,,,2023-10-09 17:59:31,2023-10-09 17:59:33,2.209s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/btnedit""))",Chrome 117.0.0.0,,,2023-10-09 17:59:33,2023-10-09 17:59:34,1.370s,PASSED
+populateProjectName = customKeywords.Emailautomation.populateSalesProjectName(),Chrome 117.0.0.0,,,2023-10-09 17:59:34,2023-10-09 17:59:34,0.003s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/input__ProductName""), populateProjectName)",Chrome 117.0.0.0,,,2023-10-09 17:59:34,2023-10-09 17:59:37,2.762s,PASSED
+"setText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/input__ProductPrice""), ""05"")",Chrome 117.0.0.0,,,2023-10-09 17:59:37,2023-10-09 17:59:39,1.434s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:39,2023-10-09 17:59:40,1.482s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""Select Payment Method"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:40,2023-10-09 17:59:47,7.172s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""3"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:47,2023-10-09 17:59:49,2.052s,PASSED
+"selectOptionByValue(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/select_Select Payment Method PayPal  Stripe_d0e314""), ""3"", true)",Chrome 117.0.0.0,,,2023-10-09 17:59:49,2023-10-09 17:59:52,2.979s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Checkout Page Settings""))",Chrome 117.0.0.0,,,2023-10-09 17:59:52,2023-10-09 17:59:53,0.643s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/a_Use This - Copy""))",Chrome 117.0.0.0,,,2023-10-09 17:59:53,2023-10-09 17:59:54,0.823s,PASSED
+"click(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/button_Save - Copy""))",Chrome 117.0.0.0,,,2023-10-09 17:59:54,2023-10-09 17:59:56,2.074s,PASSED
+delay(10),Chrome 117.0.0.0,,,2023-10-09 17:59:56,2023-10-09 18:00:06,10.008s,PASSED
+"verifyElementText(findTestObject(""Projects/TC031-Verify user can edit product/Page_Landingly  Project Detail/td_new product""), populateProjectName)",Chrome 117.0.0.0,,,2023-10-09 18:00:06,2023-10-09 18:00:06,0.440s,PASSED
+closeBrowser(),Chrome 117.0.0.0,,,2023-10-09 18:00:06,2023-10-09 18:00:07,1.225s,PASSED
+,,,,,,,
+Test Cases/Projects/TC032-Verify user can delete product,Chrome 117.0.0.0,,,2023-10-09 18:00:07,2023-10-09 18:01:02,54.588s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 18:00:08,2023-10-09 18:00:11,2.877s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 18:00:11,2023-10-09 18:00:12,0.257s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 18:00:12,2023-10-09 18:00:24,11.953s,PASSED
+"setText(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 18:00:24,2023-10-09 18:00:25,1.197s,PASSED
+"setEncryptedText(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 18:00:25,2023-10-09 18:00:26,0.753s,PASSED
+"click(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 18:00:26,2023-10-09 18:00:26,0.654s,PASSED
+"click(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 18:00:26,2023-10-09 18:00:29,3.253s,PASSED
+"click(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 18:00:29,2023-10-09 18:00:30,0.709s,PASSED
+"setText(findTestObject(""Projects/TC032-Verify user can delete product/Page_Landingly  Projects/input__ProjectName""), ""sales"")",Chrome 117.0.0.0,,,2023-10-09 18:00:30,2023-10-09 18:01:02,31.938s,FAILED
+,,,,,,,
+Test Cases/Projects/TC033-Verify user can add new email,Chrome 117.0.0.0,,,2023-10-09 18:01:02,2023-10-09 18:02:16,1m - 13.600s,FAILED
+"openBrowser("""")",Chrome 117.0.0.0,,,2023-10-09 18:01:03,2023-10-09 18:01:07,3.926s,PASSED
+maximizeWindow(),Chrome 117.0.0.0,,,2023-10-09 18:01:07,2023-10-09 18:01:08,0.208s,PASSED
+"navigateToUrl(""https://app.landingly.com/"")",Chrome 117.0.0.0,,,2023-10-09 18:01:08,2023-10-09 18:01:14,6.621s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Login/input_Email_login-email""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 18:01:14,2023-10-09 18:01:15,1.183s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Login/input_Forgot Password_login-password""), ""/5S6MFFLcE5DAenbZpYNsQ=="")",Chrome 117.0.0.0,,,2023-10-09 18:01:15,2023-10-09 18:01:16,0.697s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Login/button_Sign in""))",Chrome 117.0.0.0,,,2023-10-09 18:01:16,2023-10-09 18:01:17,0.614s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly/a_Projects""))",Chrome 117.0.0.0,,,2023-10-09 18:01:17,2023-10-09 18:01:19,2.430s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Projects/button_New Project""))",Chrome 117.0.0.0,,,2023-10-09 18:01:19,2023-10-09 18:01:24,4.698s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Projects/input__ProjectName""), ""new project"")",Chrome 117.0.0.0,,,2023-10-09 18:01:24,2023-10-09 18:01:26,2.110s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Projects/button_Build Project""))",Chrome 117.0.0.0,,,2023-10-09 18:01:26,2023-10-09 18:01:27,0.952s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 18:01:27,2023-10-09 18:01:33,6.304s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/a_Use This""))",Chrome 117.0.0.0,,,2023-10-09 18:01:33,2023-10-09 18:01:35,2.332s,PASSED
+"click(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/button_Add New Email""))",Chrome 117.0.0.0,,,2023-10-09 18:01:35,2023-10-09 18:01:37,2.000s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/input__FromName""), ""Ahmad"")",Chrome 117.0.0.0,,,2023-10-09 18:01:37,2023-10-09 18:01:41,3.306s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/input__Subject""), ""My subject"")",Chrome 117.0.0.0,,,2023-10-09 18:01:41,2023-10-09 18:01:42,1.413s,PASSED
+"setText(findTestObject(""Object Repository/Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/input__ReplyToEmail""), ""sqaahmadtahir@gmail.com"")",Chrome 117.0.0.0,,,2023-10-09 18:01:42,2023-10-09 18:01:44,1.530s,PASSED
+"setText(findTestObject(""Projects/TC033-Verify user can add new email/Page_Landingly  Project Detail/input_mailbody""), ""mail text automation"")",Chrome 117.0.0.0,,,2023-10-09 18:01:44,2023-10-09 18:02:16,31.953s,FAILED

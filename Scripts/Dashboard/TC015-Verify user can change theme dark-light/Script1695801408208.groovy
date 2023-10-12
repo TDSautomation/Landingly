@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://app.landingly.com/login')
 
 WebUI.setText(findTestObject('Object Repository/Dashboard/TC015-Verify user can change theme dark-light/Page_Landingly  Login/input_Email_login-email'), 

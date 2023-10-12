@@ -19,9 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://app.landingly.com/')
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Login/TC004-Empty Login Fields/Page_Landingly  Login/button_Sign in'))
+WebUI.verifyElementNotClickable(findTestObject('Object Repository/Login/TC004-Empty Login Fields/Page_Landingly  Login/button_Sign in'))
 
 WebUI.closeBrowser()
 
